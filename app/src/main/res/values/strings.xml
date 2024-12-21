@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidCA</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="get_verification_code">Get Verification Code</string>
+    <string name="verification_code">Verification Code:</string>
+    <string name="register">Register</string>
+</resources>
